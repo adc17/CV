@@ -1,6 +1,6 @@
 ## Alexander Chalk
 
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Skills](#skills) | [Education](#education) | [Interests](#interests-and-hobbies)
 
 I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—now I have decided to learn the most important language of the 21st century!
 
