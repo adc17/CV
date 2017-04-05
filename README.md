@@ -1,16 +1,28 @@
-## Your Name
+## Alexander Chalk
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—and now I have decided to learn the most important language of the 21st century!
+
+I am delighted that coding has given me a skill to develop, an endless amount of information to absorb, and the chance to apply myself analytically in a highly collaborative environment. These factors make it the most motivating profession I have encountered, and make a full-time programming job an obvious next major goal.
+
+I value pair programming, best practices, and continued chances to upskill. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism.
 
 ## Skills
 
-#### This Skill
+#### Self-starter
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+An Oxford degree is largely based on self-study—I graduated with the highest possible grade. Following that, I emigrated to Paris, found work as an English and Philosophy tutor, and picked up French. I then moved to Canada with my fiancée, where I found work with two local publishing houses and a freelance marketing consultant. 
 
-- Experience
-- Achievements
-- Evidence
+And I'm now embarking on 3 months of 70+ hour weeks at Makers Academy, with 4AM weekday starts. So I possess discipline and motivation, and I'm not afraid of a challenge!
+
+#### Analytical Thinker
+
+I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. At Oxford, philosophy was taught as a deeply analytical subject, and I learnt to dissect issues in a way that is remarkably similar to the approach I take when programming. I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis. I was in part drawn to coding because it let me develop my analytical thinking in a new, more personally fulfilling way. 
+
+#### Strong Communicator and Collaborator
+
+I was trained by my university counselling service to support fellow students. This involved 30 hours of training in effective listening and assertive communication, followed by a year of supervision whilst working in the role. As a result, I can conduct myself both respectfully and straightforwardly, which has been immensely valuable when working collaboratively.
+
+More recently, I have worked with authors on poetry and novels, and I have written copy to communicate effectively with customers. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was typical practice, and I am thrilled that it is now such a common industry expectation.
 
 #### Another Skill
 
@@ -23,26 +35,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March to July 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+A 16-week intensive development bootcamp, with an emphasis on the following:
+
+- Agile Methodologies
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Pair-programming
 
-#### Your University / College (start_date to end_date)
+#### University of Oxford (October 2011 to July 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Philosophy & Theology, BA (Hons)
+- 1st Class Degree (GPA 4.0)
+- Also worked on team responsible for student welfare and support.
 
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## Interests and Hobbies
+- **Outdoor Sports** : I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
+- **Theatre** : I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
+- **Music** : I was a choral scholar at Oxford, and I played guitar regularly around the city. It's ironic that I've been playing less since moving to Montreal, but I plan to change that over the coming months.
