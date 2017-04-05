@@ -1,6 +1,6 @@
 ## Alexander Chalk
 
-[Skills](#skills) | [Education](#education) | [Interests](#interests-and-hobbies)
+[Skills](#skills) | [Education](#education) | [Interests and Hobbies](#interests-and-hobbies)
 
 I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—now I have decided to learn the most important language of the 21st century!
 
@@ -52,6 +52,6 @@ A 16-week intensive development bootcamp, with an emphasis on the following:
 - Also worked on team responsible for student welfare and support.
 
 ## Interests and Hobbies
-- **Outdoor Sports** : I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
-- **Theatre** : I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
-- **Music** : I was a choral scholar at Oxford, and I played guitar regularly around the city. It's ironic that I've been playing less since moving to Montreal, but I plan to change that over the coming months.
+- **Outdoor Sports**: I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
+- **Theatre**: I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
+- **Music**: I was a choral scholar at Oxford, and I played guitar regularly around the city. It's ironic that I've been playing less since moving to Montreal, but I plan to change that over the coming months.
