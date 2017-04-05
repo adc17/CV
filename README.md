@@ -4,7 +4,7 @@
 
 I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—now I have decided to learn the most important language of the 21st century!
 
-I value pair programming, best practices, and continued chances to upskill. I am motivated by coding's endless scope for self-improvement, and by the chance it offers to work collaboratively. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism.
+I value pair programming, best practices, and continued chances to upskill. I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism.
 
 ## Skills
 
