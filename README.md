@@ -10,9 +10,7 @@ I value pair programming, best practices, and continued chances to upskill. I am
 
 #### Self-starter
 
-An Oxford degree is largely based on self-study—I graduated with the highest possible grade. Following that, I emigrated to Paris, found work as an English and Philosophy tutor, and picked up French. I then moved to Canada with my fiancée, where I found work with two local publishing houses and a freelance marketing consultant. 
-
-I'm now embarking on 3 months of 70+ hour weeks at Makers Academy, with 4AM weekday starts. So I possess discipline and motivation, and I'm not afraid of a challenge!
+An Oxford degree is largely based on self-study—I graduated with the highest possible grade. Following that, I emigrated to Paris, found work as an English and Philosophy tutor, and picked up French. I then moved to Canada with my fiancée, where I found work with two local publishing houses and a freelance marketing consultant. And I'm now embarking on 3 months of 70+ hour weeks at Makers Academy, with 4AM weekday starts. So I possess discipline and motivation, and I'm not afraid of a challenge!
 
 #### Analytical Thinker
 
