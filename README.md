@@ -18,7 +18,7 @@ I'm now embarking on 3 months of 70+ hour weeks at Makers Academy, with 4AM week
 
 I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. At Oxford, philosophy was taught as a deeply analytical subject, and I learnt to dissect issues in a way that is very similar to the approach I take when programming. I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis. I was in part drawn to coding because it let me develop my analytical thinking in a new, more personally fulfilling way. 
 
-#### Strong Communicator and Collaborator
+#### Strong Collaborator
 
 I was trained by my university counselling service to support fellow students. This involved 30 hours of training in effective listening and assertive communication, followed by a year of supervision whilst working in the role. As a result, I can conduct myself both respectfully and straightforwardly, which has been immensely valuable when working collaboratively.
 
