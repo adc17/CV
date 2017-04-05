@@ -14,13 +14,13 @@ An Oxford degree is largely based on self-study—I graduated with the highest p
 
 #### Analytical Thinker
 
-I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. At Oxford, philosophy was taught as a deeply analytical subject, and I dissected issues in a way that is very similar to my approach when programming. I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis. I was in part drawn to coding because it let me develop my analytical thinking in a new, more personally fulfilling way. 
+I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. Philosophy is a deeply analytical subject, and it dissects issues in a way that is very similar to one's approach when programming. Thanks to philosophy, I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis. Coding has let me develop this analytically approach in a way I find more personally fulfilling. 
 
 #### Strong Collaborator
 
 I was trained by my university counselling service to support fellow students. This involved 30 hours of training in effective listening and assertive communication, followed by a year of supervision whilst working in the role. As a result, I can conduct myself both respectfully and straightforwardly when working collaboratively.
 
-More recently, I have written copy to communicate effectively with customers, and I have worked with authors on poetry and novels. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was such a common working method, and I am thrilled that it is now standard industry practice.
+More recently, I have written copy to communicate effectively with customers, and I have worked with authors on poetry and novels. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was such a common approach, and I am thrilled that it is now standard industry practice.
 
 #### Another Skill
 
