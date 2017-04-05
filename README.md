@@ -49,5 +49,5 @@ A 16-week intensive bootcamp, with an emphasis on the following:
 
 ## Interests and Hobbies
 - **Outdoor Sports**: I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
-- **Theatre**: I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
 - **Music**: I was a choral scholar at Oxford, and I played guitar regularly around the city. It's ironic that I've been playing less since moving to Montreal, but I plan to change that over the coming months.
+- **Theatre**: I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
