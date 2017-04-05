@@ -20,7 +20,7 @@ I have always enjoyed puzzles and logical thinking, and studying philosophy took
 
 I was trained by my university counselling service to support fellow students. This involved 30 hours of training in effective listening and assertive communication, followed by a year of supervision whilst working in the role. As a result, I can conduct myself both respectfully and straightforwardly when working collaboratively.
 
-More recently, I have worked with authors on poetry and novels, and I have written copy to communicate effectively with customers. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was typical practice, and I am thrilled that it is now such a common industry expectation.
+More recently, I have worked with authors on poetry and novels, and I have written copy to communicate effectively with customers. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was so prevalent, and I am thrilled that it is now standard industry practice.
 
 #### Another Skill
 
