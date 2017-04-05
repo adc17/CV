@@ -2,7 +2,7 @@
 
 I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—now I have decided to learn the most important language of the 21st century!
 
-I am delighted that coding has given me a skill to develop, an endless amount of information to absorb, and the chance to apply myself analytically in a highly collaborative environment. These factors make it the most motivating profession I have encountered, and make a full-time programming job an obvious next major goal.
+I am delighted that coding has given me a skill to develop, an endless amount of information to absorb, and the chance to apply myself analytically in a highly collaborative environment. These factors make it the most motivating profession I have encountered, and make a full-time programming job an obvious goal.
 
 I value pair programming, best practices, and continued chances to upskill. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism.
 
