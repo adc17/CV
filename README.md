@@ -35,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (March to July 2017)
 
-A 16-week intensive development bootcamp, with an emphasis on the following:
+A 16-week intensive bootcamp, with an emphasis on the following:
 
 - Agile Methodologies
 - OOP, TDD, SOLID, MVC, DDD
