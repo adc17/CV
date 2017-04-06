@@ -2,11 +2,11 @@
 
 [Skills](#skills) | [Education](#education) | [Interests and Hobbies](#interests-and-hobbies)
 
-I am a former Editor and Copywriter who graduated from Oxford University and relocated to Quebec. After learning French, I decided to master a new language and enrolled at Makers Academy, one of the most selective dev bootcamps in the world. I have been delighted by programming so far.
+I am a former Editor and Copywriter who graduated from Oxford University and relocated to Quebec. After learning French, I decided to master a new language and enrolled at Makers Academy, one of the most selective dev bootcamps in the world. I have been delighted by programming so far. 
 
-I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism. 
+I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. 
 
-My ideal team environment is both friendly and hard-working; it values pair programming, best practices, and continued chances to upskill and grow. 
+My ideal team environment is both friendly and hard-working; it values pair programming, best practices, and continued chances to upskill and grow. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism. 
 
 ## Skills
 
