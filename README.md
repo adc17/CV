@@ -57,4 +57,4 @@ Trained to edit structure, style, and copy of manuscripts, with guidance from Se
 ## Interests and Hobbies
 - **Outdoor Sports**: I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
 - **Music**: I was a choral scholar at Oxford, and I played guitar regularly around the city. It's ironic that I've been playing less since moving to Montreal, but I plan to change that over the coming months.
-- **Theatre**: I've always preferred plays to films, and I wish seeing them was as simple as Netflix!
+- **Theatre**: I've always preferred plays to films—I especially love 20th century American theatre.
