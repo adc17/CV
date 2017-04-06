@@ -22,16 +22,7 @@ I have always enjoyed puzzles and logical thinking, and studying philosophy took
 
 I was trained by my university counselling service to support fellow students. This involved 30 hours of training in effective listening and assertive communication, followed by a year of supervision whilst working in the role. As a result, I can conduct myself both respectfully and straightforwardly when working collaboratively.
 
-More recently, I have written copy to communicate effectively with customers, and I have worked with authors on poetry and novels. I have also done plenty of programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I did not realize it was such a common approach, and I am thrilled that it is now standard industry practice.
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+More recently, I have written copy to communicate effectively with customers, and I have worked with authors on poetry and novels. I have also done plenty of pair programming at Makers Academy. Pairing has been one of the surprise delights of learning to code—I am thrilled that it is now standard industry practice.
 
 ## Education
 
