@@ -16,7 +16,7 @@ An Oxford degree is largely based on self-study—I graduated with the highest p
 
 #### Analytical Thinker
 
-I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. Philosophy is a deeply analytical subject, and it dissects issues in a way that is very similar to one's approach when programming. Thanks to philosophy, I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis at one of the top universities in the world. Coding has let me develop this analytical approach in the way I find especially motivating. 
+I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. A deeply analytical subject, it dissects issues in a way that is very similar to my programming approach. It demands that I think critically, question my assumptions, and submit my ideas to rigorous logical analysis. I learnt it at one of the world's top universities, and coding has let me develop this analytical approach in a way I find especially motivating. 
 
 #### Strong Collaborator
 
