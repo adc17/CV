@@ -2,9 +2,11 @@
 
 [Skills](#skills) | [Education](#education) | [Interests and Hobbies](#interests-and-hobbies)
 
-I am a former Editor and Copywriter enrolled at Makers Academy, which is among the most selective dev bootcamps in the world. After graduating from Oxford University, I moved to Quebec and picked up French—now I have decided to learn the most important language of the 21st century!
+I am a former Editor and Copywriter who graduated from Oxford University and relocated to Quebec. After learning French, I decided to master a new language and enrolled at Makers Academy, one of the most selective dev bootcamps in the world. I have been delighted by programming so far.
 
-I value pair programming, best practices, and continued chances to upskill. I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism.
+I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism. 
+
+My ideal team environment is both friendly and hard-working; it values pair programming, best practices, and continued chances to upskill and grow. 
 
 ## Skills
 
@@ -14,7 +16,7 @@ An Oxford degree is largely based on self-study—I graduated with the highest p
 
 #### Analytical Thinker
 
-I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. Philosophy is a deeply analytical subject, and it dissects issues in a way that is very similar to one's approach when programming. Thanks to philosophy, I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis. Coding has let me develop this analytical approach in a way I find especially motivating. 
+I have always enjoyed puzzles and logical thinking, and studying philosophy took my abilities to the next level. Philosophy is a deeply analytical subject, and it dissects issues in a way that is very similar to one's approach when programming. Thanks to philosophy, I learnt to think critically, question my assumptions, and submit my ideas to rigorous logical analysis at one of the top universities in the world. Coding has let me develop this analytical approach in the way I find especially motivating. 
 
 #### Strong Collaborator
 
