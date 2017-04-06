@@ -44,15 +44,15 @@ A 16-week intensive bootcamp, with an emphasis on the following:
 
 **Growth Compass Inc.** (November 2015 to January 2017)  
 *Editor and Copywriter*<br>
-Developed written content for clients' websites and newsletters, and copyedited existing marketing material. Researched one client’s potential customers and expanded their databases.
+Developed written content for clients' websites and newsletters, and copyedited existing marketing material. 
 
 **Linda Leith Publishing** (November 2015 to October 2016)    
 *Editor*  
-Copyedited the work of four authors, including a finalist for the Governor General’s Literary Award. Represented press at trade book fairs.
+Copyedited the work of four authors, including a finalist for the Governor General’s Literary Award. 
 
 **Shoreline Press** (September 2015 to September 2015)   
 *Editor*  
-Edited structure, style, and copy of manuscripts with guidance from Senior Editor. Also represented press at events, including communications with McGill University Library, and researched ONIX publishing protocol, updating metadata accordingly.
+Trained to edit structure, style, and copy of manuscripts, with guidance from Senior Editor. 
 
 ## Interests and Hobbies
 - **Outdoor Sports**: I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
