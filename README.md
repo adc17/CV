@@ -43,7 +43,7 @@ A 16-week intensive bootcamp, with an emphasis on the following:
 ## Experience
 
 **Growth Compass Inc.** (November 2015 to January 2017)  
-*Editor and Copywriter*
+*Editor and Copywriter*<br>
 Developed written content for clients' websites and newsletters, and copyedited existing marketing material. Researched one client’s potential customers and expanded their databases.
 
 **Linda Leith Publishing** (November 2015 to October 2016)    
