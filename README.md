@@ -1,6 +1,6 @@
 ## Alexander Chalk
 
-[Skills](#skills) | [Education](#education) | [Interests and Hobbies](#interests-and-hobbies)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests and Hobbies](#interests-and-hobbies)
 
 I am a former Editor and Copywriter who graduated from Oxford University and relocated to Quebec. After learning French, I decided to master a new language and enrolled at Makers Academy, one of the most selective dev bootcamps in the world. I have been delighted by programming so far. 
 
@@ -39,6 +39,20 @@ A 16-week intensive bootcamp, with an emphasis on the following:
 - Philosophy & Theology, BA (Hons)
 - 1st Class Degree (GPA 4.0)
 - Also worked on team responsible for student welfare and support.
+
+## Experience
+
+**Growth Compass Inc.** (November 2015 to January 2017)  
+*Editor and Copywriter*
+Developed written content for clients' websites and newsletters, and copyedited existing marketing material. Researched one client’s potential customers and expanded their databases.
+
+**Linda Leith Publishing** (November 2015 to October 2016)    
+*Editor*  
+Copyedited the work of four authors, including a finalist for the Governor General’s Literary Award. Represented press at trade book fairs.
+
+**Shoreline Press** (September 2015 to September 2015)   
+*Editor*  
+Edited structure, style, and copy of manuscripts with guidance from Senior Editor. Also represented press at events, including communications with McGill University Library, and researched ONIX publishing protocol, updating metadata accordingly.
 
 ## Interests and Hobbies
 - **Outdoor Sports**: I ice-skate while Montreal is snowy, and I play tennis while Montreal is sunny. 
