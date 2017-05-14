@@ -5,7 +5,7 @@
 
 ## Alexander Chalk
 
-[Compétences](#compétences) | [Éducation](#education) | [Expériences](#expériences) | [Intêrets et Passe-Temps](#intêrets-et-passe-temps)
+[Compétences](#compétences) | [Éducation](#Éducation) | [Expériences](#expériences) | [Intêrets et Passe-Temps](#intêrets-et-passe-temps)
 
 Un ancien rédacteur et écrivain, diplomé de l'université d'Oxford, résidant désormais à Montréal. Je parle l'anglais et le français, et j'avais envie d'apprendre une nouvelle langue, ainsi je me suis incrit à la Makers Academy, un des coding bootcamps les plus selectifs au monde. En l'intégrant, j'ai découvert un domaine que je trouve stimulant et passionnant.
 
