@@ -1,8 +1,9 @@
 # Résumé 
 
-### [Version Française](#alexander-chalk-française) | [English Version](#alexander-chalk-english)
+### [Version Française](#français) | [English Version](#english)
 
-# Alexander Chalk—Français
+## Français
+# Alexander Chalk
 
 [Compétences](#compétences) | [Éducation](#Éducation) | [Expériences](#expériences) | [Intêrets et Passe-Temps](#intêrets-et-passe-temps)
 
@@ -67,9 +68,8 @@ Formé à la structure, au style, et à la grammaire dans les manuscrits, sous l
 - **Musique**: J'étais chorise à Oxford, et je jouais régulièrement de la guitare lors de concerts partout dans la ville. C'est de l'ironie, je joue moins depuis que j'ai déménagé à Montréal, mais j'ai pour projet de changer ça pendant les prochains mois.
 - **Théatre**: J'ai toujours préfèré les pièces de théatre aux films, et en particuliers le théatre américain du XXième siècle. 
 
-# English Version
-
-# Alexander Chalk—English
+## English
+# Alexander Chalk
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests and Hobbies](#interests-and-hobbies)
 
