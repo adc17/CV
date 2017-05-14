@@ -1,4 +1,6 @@
-# Résumé [Version Française](#version-française) | [English Version](#english-version)
+# Résumé 
+
+### [Version Française](#version-française) | [English Version](#english-version)
 
 # Version Française
 
