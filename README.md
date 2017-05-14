@@ -1,8 +1,7 @@
 # Résumé 
 
-### [Version Française][version-française] | [English Version][english-version]
-[version-française]: 7
-[english-version]: 73
+### [Version Française](#version-française) | [English Version](#english-version)
+
 # Version Française
 
 # Alexander Chalk
