@@ -1,5 +1,5 @@
 ## Résumé
-[Version Française](#version française) | [English Version](#english version)
+[Version Française](#version-française) | [English Version](#english-version)
 
 ## Version Française
 
