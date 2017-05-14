@@ -1,6 +1,6 @@
 # Résumé 
 
-### [Version Française](#alexander-chalk—française) | [English Version](#alexander-chalk—english)
+### [Version Française](#alexander-chalk-française) | [English Version](#alexander-chalk-english)
 
 # Alexander Chalk—Français
 
