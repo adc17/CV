@@ -1,10 +1,8 @@
 # Résumé 
 
-### [Version Française](#version-française) | [English Version](#english-version)
+### [Version Française](#alexander-chalk—française) | [English Version](#alexander-chalk—english)
 
-# Version Française
-
-# Alexander Chalk
+# Alexander Chalk—Français
 
 [Compétences](#compétences) | [Éducation](#Éducation) | [Expériences](#expériences) | [Intêrets et Passe-Temps](#intêrets-et-passe-temps)
 
@@ -71,7 +69,7 @@ Formé à la structure, au style, et à la grammaire dans les manuscrits, sous l
 
 # English Version
 
-# Alexander Chalk
+# Alexander Chalk—English
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests and Hobbies](#interests-and-hobbies)
 
