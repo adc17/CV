@@ -1,7 +1,7 @@
 ## Résumé
-[Français](#français) | [English](#english)
+[Version Française](#version française) | [English Version](#english version)
 
-## Français
+## Version Française
 
 ## Alexander Chalk
 
@@ -68,7 +68,7 @@ Formé à la structure, au style, et à la grammaire dans les manuscrits, sous l
 - **Musique**: J'étais chorise à Oxford, et je jouais régulièrement de la guitare lors de concerts partout dans la ville. C'est de l'ironie, je joue moins depuis que j'ai déménagé à Montréal, mais j'ai pour projet de changer ça pendant les prochains mois.
 - **Théatre**: J'ai toujours préfèré les pièces de théatre aux films, et en particuliers le théatre américain du XXième siècle. 
 
-## English 
+## English Version
 
 ## Alexander Chalk
 
@@ -78,7 +78,7 @@ I am a former Editor and Copywriter who graduated from Oxford University and rel
 
 I am motivated by coding's endless scope for self-improvement, and by the chances it offers to work collaboratively. 
 
-My ideal team environment is both friendly and hard-working; it values pair programming, best practices, and continued chances to upskill and grow. I also take my Quebec integration seriously—I'm keen to find work at a francophone company where I can elevate my French from fluency to full bilingualism. 
+My ideal team environment is both friendly and hard-working; it values pair programming, best practices, and continued chances to upskill and grow. I also take my Quebec integration seriously—I'm keen to find work at a company where I can elevate my French from fluency to full bilingualism. 
 
 ## Skills
 
